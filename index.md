@@ -41,3 +41,7 @@ c(first_row, second_row) %>%
 #saving the file to the device
 image_write(first_row, second_row, "my meme.png")
 ```
+Running this code on R gives us our final meme which looks like this:
+
+![Jk Meme](https://github.com/upar122/stats220/blob/main/meme.png?raw=true)
+
