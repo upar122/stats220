@@ -1,3 +1,4 @@
+```r
 #creating meme
 library(magick)
 #Insering pictures from Pinterest and scaling
@@ -39,4 +40,4 @@ c(first_row, second_row) %>%
 
 #saving the file to the device
 image_write(first_row, second_row, "my meme.png")
-
+```
